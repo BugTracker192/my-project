@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 117,
+    "description": "26.3 S9 PoC: recursive number_provider -> StackOverflow crash"
+  }
+}
